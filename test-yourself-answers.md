@@ -713,6 +713,8 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
 
+Git is a version control system that is used for software development and other version control tasks. As a distributed revision control system it is aimed at speed, data integrity, and support for distributed, non-linear workflows. Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.
+
 *Contributed by [Adan Camacho](https://github.com/adancode)*
 
 #### What does SCM stand for?
